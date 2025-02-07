@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form method="post">
+        <div class="container">
+            <input type="text" name="display" id="display" readonly>
+            <div class="keys">
+                <button type="button" name="C" onclick="clearDisplay()">C</button>
+                <button type="button" name="brackets" onclick="appendToDisplay('()')">()</button>
+                <button type="button" name="percent" onclick="appendToDisplay('%')">%</button>
+                <button type="button" name="divide" onclick="appendToDisplay('/')">/</button>
+                <button type="button" name="7" onclick="appendToDisplay('7')">7</button>
+                <button type="button" name="8" onclick="appendToDisplay('8')">8</button>
+                <button type="button" name="9" onclick="appendToDisplay('9')">9</button>
+                <button type="button" name="multiply" onclick="appendToDisplay('*')">X</button>
+                <button type="button" name="4" onclick="appendToDisplay('4')">4</button>
+                <button type="button" name="5" onclick="appendToDisplay('5')">5</button>
+                <button type="button" name="6" onclick="appendToDisplay('6')">6</button>
+                <button type="button" name="subtract" onclick="appendToDisplay('-')">-</button>
+                <button type="button" name="1" onclick="appendToDisplay('1')">1</button>
+                <button type="button" name="2" onclick="appendToDisplay('2')">2</button>
+                <button type="button" name="3" onclick="appendToDisplay('3')">3</button>
+                <button type="button" name="add" onclick="appendToDisplay('+')">+</button>
+                <button type="button" name="0" onclick="appendToDisplay('0')">0</button>
+                <button type="button" name="dot" onclick="appendToDisplay('.')">.</button>
+                <button type="button" name="equals" onclick="calculate()">=</button>
+                <button type="button" name="delete" onclick="deleteLast()">del</button>
+                <button type="button" name="sqrt" onclick="appendToDisplay('√')">√x</button>
+                <button type="button" name="log2" onclick="appendToDisplay('log2')">log2</button>
+            </div>
+        </div>
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>
