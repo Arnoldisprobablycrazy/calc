@@ -11,7 +11,7 @@
 <body>
     <form method="post" action="">
         <div id="calculator">
-            <!-- Display the expression above the result -->
+            
             <input type="text" id="expression" name="expression" readonly>
             <input type="text" id="display" name="display" >
 
@@ -86,7 +86,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $result = 'Invalid Input';
     }
 
-    // Output the result and update the display
+    
     echo "<script>
             document.getElementById('display').value = '$result';
             document.getElementById('expression').value = '$expression';
