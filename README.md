@@ -60,7 +60,12 @@ CSS
 JavaScript
    Handles button clicks and updates the display.
      - implemented a function to append to display the operator and operand in the event of a click.
-   Functions implemented to clear display and also delete the last expression entered in the display.  
+   Functions implemented to clear display <br>
+   <img width="369" alt="image" src="https://github.com/user-attachments/assets/2028345c-6656-4423-84ec-36daa893bf07" /> <br><br>
+   
+   and also delete the last expression entered in the display. <br>
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/17795718-2567-45a5-87ee-79ec274acd48" /> <br><br>
+
    Prevents invalid inputs (e.g., consecutive operators).   
 
 PHP
