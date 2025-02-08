@@ -61,10 +61,8 @@ Post metod excutes the input values/expressions in the display.
 Safely evaluates the expression using eval() after sanitizing and validating the input.
 Handles advanced operations like square roots, logarithms, and exponents.
 
-// Validate the expression
-    $isValid = preg_match('/^[0-9√log\(\)\.%+\-\*\/\^]+$/', $safeExpression) &&
-        !preg_match('/[+\-\*\/%\^]{2,}/', $safeExpression) &&
-        preg_match('/[0-9\)√]$/', $safeExpression);
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/02ce040d-c4a9-4675-aebc-13beedf93e40" />
+
 
 # Installation
 Clone the repository:
