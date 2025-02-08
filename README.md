@@ -17,7 +17,7 @@ Advanced Operations:**Square root (√).
 
 **Responsive Design:** Works on both desktop and mobile devices.
 
-#How to Use**
+# How to Use
 Entering Numbers and Operators:
 Click the buttons to input numbers and operators.
 Use parentheses ( and ) to group operations.
