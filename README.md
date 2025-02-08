@@ -100,6 +100,9 @@ Percentage:
 Input: 50% * 200
 Result: 100
 
+<img width="235" alt="image" src="https://github.com/user-attachments/assets/d1b816ee-fd04-4008-a863-8ac63453a41c" />
+
+
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
