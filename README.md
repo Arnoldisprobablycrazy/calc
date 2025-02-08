@@ -61,18 +61,21 @@ Post metod excutes the input values/expressions in the display.
 Safely evaluates the expression using eval() after sanitizing and validating the input.
 Handles advanced operations like square roots, logarithms, and exponents.
 
+// Validate the expression
+    $isValid = preg_match('/^[0-9√log\(\)\.%+\-\*\/\^]+$/', $safeExpression) &&
+        !preg_match('/[+\-\*\/%\^]{2,}/', $safeExpression) &&
+        preg_match('/[0-9\)√]$/', $safeExpression);
+
 # Installation
 Clone the repository:
 Copy
-git clone https://github.com/Arnoldisprobablycrazy/calculator.git
+git clone https://github.com/Arnoldisprobablycrazy/calc.git
 Navigate to the project directory:
 
-# bash
 Copy
 cd calculator
 Set up a local server (e.g., using XAMPP, or PHP's built-in server):
 
-# bash
 Copy
 php -S localhost:8000
 Open your browser and visit:
