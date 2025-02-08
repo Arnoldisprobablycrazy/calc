@@ -17,23 +17,23 @@ Advanced Operations:**Square root (√).
 
 **Responsive Design:** Works on both desktop and mobile devices.
 
-**How to Use**
-# Entering Numbers and Operators:
+#How to Use**
+Entering Numbers and Operators:
 Click the buttons to input numbers and operators.
 Use parentheses ( and ) to group operations.
 Use √ for square roots and log for logarithms.
 
-# Performing Calculations:
+Performing Calculations:
 Click the = button to evaluate the expression.
 
-# Clearing the Display:
+Clearing the Display:
 Use the C button to clear the entire display.
 Use the del button to delete the last character.
 
-# Keyboard Support:
+Keyboard Support:
 You can also use your keyboard to input numbers and operators.
 
-# Code Structure
+Code Structure
 HTML
  The calculator interface is built using HTML forms and buttons.
  Form method (POST) implemented.
