@@ -44,15 +44,15 @@ Two input fields are used:
 
 CSS
   Styling is applied using style.css to create a clean and user-friendly interface.
-  Buttons are styled with a consistent design, and special buttons (e.g., C, del, operators) are highlighted.
+  Buttons are styled with a consistent design, and special buttons (e.g., C, del, operators) are highlighted.<br>
   <img width="274" alt="image" src="https://github.com/user-attachments/assets/4a919900-e02a-4572-8b8e-430c4d3a2268" /><br><br>
 
-  Flex is implemented to align the body to the center of page.
+  Flex is implemented to align the body to the center of page.<br>
   <img width="269" alt="image" src="https://github.com/user-attachments/assets/4ccab009-a1c2-4545-a241-e640f8fb44b6" /> <br><br>
 
   
   
-  CSS grid has been implemented for the keys(buttons).four rows.
+  CSS grid has been implemented for the keys(buttons).four rows.<br>
   <img width="260" alt="image" src="https://github.com/user-attachments/assets/c080e64c-cd98-4e35-ba64-51a50bb067d7" />
 
   
