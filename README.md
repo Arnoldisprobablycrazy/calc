@@ -64,13 +64,13 @@ Handles advanced operations like square roots, logarithms, and exponents.
 # Installation
 Clone the repository:
 Copy
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/Arnoldisprobablycrazy/calculator.git
 Navigate to the project directory:
 
 # bash
 Copy
 cd calculator
-Set up a local server (e.g., using XAMPP, WAMP, or PHP's built-in server):
+Set up a local server (e.g., using XAMPP, or PHP's built-in server):
 
 # bash
 Copy
@@ -98,7 +98,6 @@ Result: 8
 Percentage:
 Input: 50% * 200
 Result: 100
-
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
