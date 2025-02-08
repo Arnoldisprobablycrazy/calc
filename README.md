@@ -1,11 +1,11 @@
-*Calculator Project
+# Calculator Project
 A simple web-based calculator built using HTML, CSS, JavaScript, and PHP. This calculator supports basic arithmetic operations,
 logarithms, square roots, exponents, and more.
 
-***Features**
+# Features
 Basic Operations: Addition (+), subtraction (-), multiplication (*), and division (/).
 
-**Advanced Operations:**Square root (√).
+Advanced Operations:**Square root (√).
   Logarithm (log).
   Exponentiation (^).
 
