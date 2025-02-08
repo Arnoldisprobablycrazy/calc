@@ -45,11 +45,13 @@ Two input fields are used:
 CSS
   Styling is applied using style.css to create a clean and user-friendly interface.
   Buttons are styled with a consistent design, and special buttons (e.g., C, del, operators) are highlighted.
-  <img width="274" alt="image" src="https://github.com/user-attachments/assets/4a919900-e02a-4572-8b8e-430c4d3a2268" />
+  <img width="274" alt="image" src="https://github.com/user-attachments/assets/4a919900-e02a-4572-8b8e-430c4d3a2268" /><br><br>
 
   Flex is implemented to align the body to the center of page.
-  <img width="269" alt="image" src="https://github.com/user-attachments/assets/4ccab009-a1c2-4545-a241-e640f8fb44b6" />
+  <img width="269" alt="image" src="https://github.com/user-attachments/assets/4ccab009-a1c2-4545-a241-e640f8fb44b6" /> <br><br>
 
+  
+  
   CSS grid has been implemented for the keys(buttons).four rows.
   <img width="260" alt="image" src="https://github.com/user-attachments/assets/c080e64c-cd98-4e35-ba64-51a50bb067d7" />
 
@@ -106,7 +108,8 @@ Percentage:
 Input: 50% * 200
 Result: 100
 
-<img width="235" alt="image" src="https://github.com/user-attachments/assets/d1b816ee-fd04-4008-a863-8ac63453a41c" />     <img width="227" alt="image" src="https://github.com/user-attachments/assets/826cd9c2-93f8-4936-8412-d9ddaf08f63a" />
+<img width="235" alt="image" src="https://github.com/user-attachments/assets/d1b816ee-fd04-4008-a863-8ac63453a41c" />     <img width="227" alt="image" src="https://github.com/user-attachments/assets/826cd9c2-93f8-4936-8412-d9ddaf08f63a" />   <img width="241" alt="image" src="https://github.com/user-attachments/assets/5a8cf9dd-2138-47ce-a5d2-f398a91af9d5" />
+
 
 
 
